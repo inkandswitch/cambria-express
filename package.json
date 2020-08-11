@@ -1,0 +1,19 @@
+{
+  "name": "cambria-express",
+  "version": "0.0.1",
+  "description": "use cambria to migrate API requests as express middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkandswitch/cambria-express.git"
+  },
+  "author": "ink & switch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inkandswitch/cambria-express/issues"
+  },
+  "homepage": "https://github.com/inkandswitch/cambria-express#readme"
+}
